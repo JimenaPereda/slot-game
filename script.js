@@ -12,7 +12,7 @@ $(document).ready(function(){
        $(".colum").animate({
         height: 'slideDown'
       });
-      $(".sound")[0].play();
+      
        randomimg1 = images[Math.floor(Math.random()* images.length)]
        randomimg2 = images[Math.floor(Math.random()* images.length)]
        randomimg3 = images[Math.floor(Math.random()* images.length)]
