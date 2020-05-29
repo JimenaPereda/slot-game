@@ -1,0 +1,66 @@
+body{
+    background-image: url(images/vegas.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+
+
+.slotMachine{
+    margin-left: 25%;
+    display: block;
+    background-image: url("Images/slot.png");
+    width: 800px;
+    height: 700px;
+    background-repeat: no-repeat;
+    background-size: 80%;
+
+}
+img{
+    height: 180px;
+    width: 145px;
+}
+#img2{
+margin-left: 22px;
+}
+.colum{
+    margin-top:  328px;
+    float: left;
+    height: 180px;
+    width: 145px;
+}
+.row{
+    height: 180px;
+    display: flex;
+    width: 550px;
+    justify-content: space-between;
+    
+}
+
+#img1{
+    margin-left: 55px;
+    background-color: white;
+}
+
+#img2{
+    margin-left: 41px;
+       background-color: white;
+
+}
+
+#img3{
+   margin-left: 26px;
+ background-color:  white;
+}
+.btn{
+    margin-top: 385px;
+    margin-left: 2%; 
+    width: 590px;
+    height: 50px;
+    font-weight: bolder;
+    display: block;
+    background-color: red;
+    font-size: 45px;
+}
